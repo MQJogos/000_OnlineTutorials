@@ -49,3 +49,33 @@ section
   justify-content:center;
   align-items:flex-start;
 }
+.top-right
+{
+  justify-content:flex-end;
+  align-items:flex-start;
+}
+.center-left
+{
+  justify-content:flex-start;
+  align-items:center;
+}
+.center
+{
+  justify-content: flex-start;
+  align-items: center;
+}
+.center-right
+{
+  justify-content: flex-center;
+  align-items: center;
+}
+.bottom-left
+{
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.bottom-center
+{
+  justify-content: flex-start;
+  align-items: flex-end;
+}
